@@ -1,0 +1,38 @@
+{
+  "name": "vidar-website",
+  "version": "1.0.0",
+  "description": "Vidar-Team official site",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "build": "poi --prod && cp dist/index.html dist/404.html",
+    "dev": "poi --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCyris/Vidar-Website.git"
+  },
+  "keywords": [
+    "Vidar-Team",
+    "Homepage"
+  ],
+  "author": "Cyris <i@cyris.moe> (https://cyris.moe/)",
+  "bugs": {
+    "url": "https://github.com/iCyris/Vidar-Website/issues"
+  },
+  "homepage": "https://vidar.club",
+  "devDependencies": {
+    "babel-plugin-react-require": "^3.1.1",
+    "babel-preset-react-app": "^9.0.0",
+    "typed.js": "^2.0.16"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.14.0",
+    "react-popper": "^2.2.5",
+    "react-router-dom": "^5.0.0",
+    "sass": "^1.63.4",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.7.15"
+  }
+}
