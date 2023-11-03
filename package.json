@@ -1,7 +1,7 @@
 {
   "name": "1ue's blog",
   "version": "1.0.0",
-  "description": "Vidar-Team official site",
+  "description": "1ue' blog copyright Vidar official site",
   "main": "src/scripts/app.js",
   "scripts": {
     "build": "poi --prod && cp dist/index.html dist/404.html",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iCyris/Vidar-Website.git"
+    "url": "git+https://github.com/luelueking/1ue-blog.git"
   },
   "keywords": [
     "Vidar-Team",
     "Homepage"
   ],
-  "author": "Cyris <i@cyris.moe> (https://cyris.moe/)",
+  "author": "1ue <1ue1uekin8@gmail.com> (https://1ue-blog.pages.dev/)",
   "bugs": {
-    "url": "https://github.com/iCyris/Vidar-Website/issues"
+    "url": "https://github.com/luelueking/1ue-blog/issues"
   },
-  "homepage": "https://vidar.club",
+  "homepage": "https://1ue-blog.pages.dev/",
   "devDependencies": {
     "babel-plugin-react-require": "^3.1.1",
     "babel-preset-react-app": "^9.0.0",
