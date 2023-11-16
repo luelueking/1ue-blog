@@ -37,7 +37,7 @@ export default [
   },
   {
     id: "2023.04.28",
-    intro: "以jvm-sandbox为基础 浅谈RASP的实现要点(上)",
+    intro: "以jvm-sandbox为基础 浅谈RASP实现要点(上)",
     avatar: require("../../images/avatar/feishu.png"),
     url: "https://vidar-team.feishu.cn/docx/K78AdnqHeowqgExpP3KcybXgn4d?from=from_copylink"
   },
