@@ -30,6 +30,12 @@ export default [
     url: "https://vidar-team.feishu.cn/docx/R88MdbCF3own4mxHLh3cvwqinAe"
   },
   {
+    id: "2023.05.29",
+    intro: "CVE-2023-33246[RocketMQ RCE]",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/CjIydx3QYoOzKvxyH8fcZMFInIg?from=from_copylink"
+  },
+  {
     id: "2023.05.05",
     intro: "RASP对抗：通过读写/proc/self/mem，绕过nativerasp.so",
     avatar: require("../../images/avatar/feishu.png"),
