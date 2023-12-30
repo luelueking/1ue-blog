@@ -12,7 +12,7 @@ export default [
     url: "https://vidar-team.feishu.cn/docx/Vy94dHrmDo2zLyx79qXcSbMHnwc?from=from_copylink"
   },
   {
-    id: "2023.09.21",
+    id: "2023.08.30",
     intro: "JNDI JDK高版本绕过--Hikari",
     avatar: require("../../images/avatar/feishu.png"),
     url: "https://vidar-team.feishu.cn/docx/PL7IdIkFCoBYhYxxFXVc5j72nKo?from=from_copylink"
