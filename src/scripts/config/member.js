@@ -18,6 +18,12 @@ export default [
     url: "https://vidar-team.feishu.cn/docx/PL7IdIkFCoBYhYxxFXVc5j72nKo?from=from_copylink"
   },
   {
+    id: "2023.07.24",
+    intro: "深入理解Java调试体系",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/MfrTdJN74oa8Q4xn8CAceTv0ngg?from=from_copylink"
+  },
+  {
     id: "2023.07.06",
     intro: "为什么readObject()能RCE?",
     avatar: require("../../images/avatar/feishu.png"),
