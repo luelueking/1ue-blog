@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.01.10",
+    intro: "IAST中的污点传播技术是怎么个事",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/ZPUid97tSo2FVZxGg42cvPE2noh?from=from_copylink"
+  },
+  {
     id: "2023.10.02",
     intro: "Learn HTTP Smuggling In RealWorld From 3CVE",
     avatar: require("../../images/avatar/feishu.png"),
