@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.02.22",
+    intro: "探索Java反序列化绕WAF新姿势",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/LJN4dzu1QoEHt4x3SQncYagpnGd?from=from_copylink"
+  },
+  {
     id: "2024.01.10",
     intro: "IAST中的污点传播技术是怎么个事",
     avatar: require("../../images/avatar/feishu.png"),
