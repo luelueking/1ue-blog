@@ -63,7 +63,7 @@ export default [
     id: "2023.04.28",
     intro: "以jvm-sandbox为基础 浅谈RASP实现要点(中)",
     avatar: require("../../images/avatar/feishu.png"),
-    url: "https://vidar-team.feishu.cn/docx/K78AdnqHeowqgExpP3KcybXgn4d?from=from_copylink"
+    url: "https://vidar-team.feishu.cn/docx/NlKqd8wRQoIuhrxKEl8cX7sknIg?from=from_copylink"
   },
   {
     id: "2023.04.28",
