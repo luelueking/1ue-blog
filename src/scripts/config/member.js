@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.04.03",
+    intro: "探索Java RASP Bypass新姿势",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/AUvRdig4roPFOuxRvxAcpT81n9b"
+  },
+  {
     id: "2024.02.22",
     intro: "探索Java反序列化绕WAF新姿势",
     avatar: require("../../images/avatar/feishu.png"),
