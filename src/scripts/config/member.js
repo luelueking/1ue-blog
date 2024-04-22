@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.04.22",
+    intro: "JDK20+之JNDI注入Bypass思路",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/ScXKd2ISEo8dL6xt5imcQbLInGc"
+  },
+  {
     id: "2024.04.03",
     intro: "探索Java RASP Bypass新姿势",
     avatar: require("../../images/avatar/feishu.png"),
