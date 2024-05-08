@@ -30,8 +30,8 @@ export default withRouter((props) => {
             case "/article":
                 currentPageID = pageID["/article"]; nextPage = pageArray[3]
                 break
-            case "/glory":
-                currentPageID = pageID["/glory"]; nextPage = pageArray[0]
+            case "/friend":
+                currentPageID = pageID["/friend"]; nextPage = pageArray[0]
                 break
             default:
                 currentPageID = pageID["/"]; nextPage = pageArray[0]
