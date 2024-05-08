@@ -67,8 +67,8 @@ export default withRouter((props) => {
                     归档
                 </a>
                 <span>/</span>
-                <a className="link__item" href="http://www.luelueking.com/" target="_blank">
-                    旧版博客
+                <a className="link__item" href="/friend" target="_blank">
+                    友链
                 </a>
             </div>
 

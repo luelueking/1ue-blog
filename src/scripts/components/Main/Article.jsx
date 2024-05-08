@@ -1,5 +1,5 @@
 import React from 'react'
-import member_info from '../../config/member.js'
+import member_info from '../../config/articles.js'
 
 export default (props) => {
     const memberProfile = member_info.map(member =>

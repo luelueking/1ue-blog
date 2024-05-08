@@ -1,11 +1,11 @@
 import React from 'react'
-import glory_info from '../../config/glory'
+import friend_info from '../../config/friend.json'
 
 export default (props) => {
 
-    if (glory_info[0].id === "1") { glory_info.reverse() }
+    if (friend_info[0].id === "1") { friend_info.reverse() }
 
-    const tBody = glory_info.map( item =>
+    const tBody = friend_info.map( item =>
         <tr key={item.id}>
             <img src={item.avatar} style={{ maxWidth: '60px', maxHeight: '60px' }}/>
             <td>{item.id}</td>
