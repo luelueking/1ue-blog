@@ -9,6 +9,12 @@ export default (props) => {
         </li>
     )
 
+    const work = about_info.work.map(item =>
+        <li key={item}>
+            <p>{item}</p>
+        </li>
+    )
+
     return (
         <section className="_about">
             <div className="about__square">
@@ -47,7 +53,7 @@ export default (props) => {
                             <strong>工作经历</strong>
                         </h4>
                         <ul>
-                            {about_info.work}
+                            {work}
                         </ul>
                     </div>
                 </div>
