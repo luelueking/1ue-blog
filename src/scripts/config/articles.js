@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.05.22",
+    intro: "CVE-2024-4956 [Nexus-Repository3 Path Traversal]",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://vidar-team.feishu.cn/docx/No1SdnjEDo8RbqxP1ZpchqvNnCg?from=from_copylink"
+  },
+  {
     id: "2024.04.22",
     intro: "JDK20+之JNDI注入Bypass思路",
     avatar: require("../../images/avatar/feishu.png"),
