@@ -1,5 +1,11 @@
 export default [
   {
+    id: "2024.08.04",
+    intro: "给五年后自己的废话",
+    avatar: require("../../images/avatar/feishu.png"),
+    url: "https://github.com/luelueking/-"
+  },
+  {
     id: "2024.05.22",
     intro: "CVE-2024-4956 [Nexus-Repository3 Path Traversal]",
     avatar: require("../../images/avatar/feishu.png"),
